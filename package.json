@@ -1,0 +1,8 @@
+{
+  "name": "vercel-time-api",
+  "version": "1.0.0",
+  "main": "api/get-time.js",
+  "engines": {
+    "node": "18.x"
+  }
+}
